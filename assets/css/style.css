@@ -1,5 +1,5 @@
 body {
-  background: #342E37;
+  background:  #cd6155  ;
   }
 
 .container {
@@ -15,7 +15,7 @@ h1 {
 }
   
 img {
-  max-width: 40%;
+  max-width: 60%;
   padding: 20px;
   display: block;
   margin: 0 auto;
@@ -31,7 +31,7 @@ form {
   cursor: pointer;
   display: block;
   position: relative;
-  background-color: #676264;
+  background-color:  #82e0aa ;
   padding: 20px 80px;
   margin: 0 auto;
   border-radius: 20px;
